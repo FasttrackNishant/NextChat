@@ -1,0 +1,7 @@
+
+
+
+frontend  se ek message jayega server pe and then it will call the function the library is called as socket.io.client'
+
+server pe socket.io
+frontend pe socket.io.client 
